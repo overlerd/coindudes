@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/FullStackMassiveNFTDevelopment/static/css/main.4ffc00ab.chunk.css",
-    "main.js": "/FullStackMassiveNFTDevelopment/static/js/main.5edf336c.chunk.js",
-    "main.js.map": "/FullStackMassiveNFTDevelopment/static/js/main.5edf336c.chunk.js.map",
-    "runtime-main.js": "/FullStackMassiveNFTDevelopment/static/js/runtime-main.7dc05aa7.js",
-    "runtime-main.js.map": "/FullStackMassiveNFTDevelopment/static/js/runtime-main.7dc05aa7.js.map",
-    "static/js/2.a032421e.chunk.js": "/FullStackMassiveNFTDevelopment/static/js/2.a032421e.chunk.js",
-    "static/js/2.a032421e.chunk.js.map": "/FullStackMassiveNFTDevelopment/static/js/2.a032421e.chunk.js.map",
-    "static/js/3.a64233a7.chunk.js": "/FullStackMassiveNFTDevelopment/static/js/3.a64233a7.chunk.js",
-    "static/js/3.a64233a7.chunk.js.map": "/FullStackMassiveNFTDevelopment/static/js/3.a64233a7.chunk.js.map",
-    "index.html": "/FullStackMassiveNFTDevelopment/index.html",
-    "static/css/main.4ffc00ab.chunk.css.map": "/FullStackMassiveNFTDevelopment/static/css/main.4ffc00ab.chunk.css.map",
-    "static/js/2.a032421e.chunk.js.LICENSE.txt": "/FullStackMassiveNFTDevelopment/static/js/2.a032421e.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/FullStackMassiveNFTDevelopment/static/media/1.75f03515.png",
-    "static/media/reset.css": "/FullStackMassiveNFTDevelopment/static/media/PressStart2P-Regular.f2341734.woff"
+    "main.css": "/coindudes/static/css/main.9aa9f812.chunk.css",
+    "main.js": "/coindudes/static/js/main.fb8188c9.chunk.js",
+    "main.js.map": "/coindudes/static/js/main.fb8188c9.chunk.js.map",
+    "runtime-main.js": "/coindudes/static/js/runtime-main.476f8bdf.js",
+    "runtime-main.js.map": "/coindudes/static/js/runtime-main.476f8bdf.js.map",
+    "static/js/2.69f9f5ea.chunk.js": "/coindudes/static/js/2.69f9f5ea.chunk.js",
+    "static/js/2.69f9f5ea.chunk.js.map": "/coindudes/static/js/2.69f9f5ea.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/coindudes/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/coindudes/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/coindudes/index.html",
+    "static/css/main.9aa9f812.chunk.css.map": "/coindudes/static/css/main.9aa9f812.chunk.css.map",
+    "static/js/2.69f9f5ea.chunk.js.LICENSE.txt": "/coindudes/static/js/2.69f9f5ea.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/coindudes/static/media/1.75f03515.png",
+    "static/media/reset.css": "/coindudes/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dc05aa7.js",
-    "static/js/2.a032421e.chunk.js",
-    "static/css/main.4ffc00ab.chunk.css",
-    "static/js/main.5edf336c.chunk.js"
+    "static/js/runtime-main.476f8bdf.js",
+    "static/js/2.69f9f5ea.chunk.js",
+    "static/css/main.9aa9f812.chunk.css",
+    "static/js/main.fb8188c9.chunk.js"
   ]
 }
